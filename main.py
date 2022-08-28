@@ -14,7 +14,7 @@ def datetimeToString(timeInput: dt.datetime, isInternationalTime:bool) -> Str:
 class userData:
     def __init__(self, name) -> None:
         self.name = name
-        self.
+        
 
 class message:
     def __init__(self, user: userData, time:dt.datetime, sent:str):
